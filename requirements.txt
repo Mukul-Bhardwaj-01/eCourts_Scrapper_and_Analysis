@@ -1,0 +1,10 @@
+streamlit
+selenium
+webdriver-manager
+pandas
+plotly
+openpyxl
+requests
+groq
+pdfplumber
+python-dateutil
